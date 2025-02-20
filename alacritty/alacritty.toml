@@ -1,0 +1,6 @@
+[colors]
+[colors.primary]
+background = "#181818"
+
+[cursor]
+style = "Underline"
